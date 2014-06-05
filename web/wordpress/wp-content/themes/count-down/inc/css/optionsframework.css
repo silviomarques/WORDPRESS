@@ -1,0 +1,428 @@
+/* Options Framework Admin Styles */
+
+.updated {
+	max-width:764px;
+	margin-bottom:0px !important;
+}
+#optionsframework {
+	position:relative;
+	z-index: 0;
+	max-width:780px;
+	background:#fff;
+}
+#optionsframework h3 {
+	cursor: default;
+	margin-bottom:20px;
+}
+#optionsframework p {
+	margin-bottom:0;
+	padding-bottom:10px;
+	line-height: 1.4em;
+}
+#optionsframework .section {
+	margin: 0 40px;
+	/* border-bottom: 1px solid #dfdfdf; */
+}
+#optionsframework .group {
+	padding-bottom:40px;
+}
+
+#optionsframework hr{
+	border: solid #dfdfdf; 
+	border-width: 1px 0 0; 
+	clear: both; 
+	margin:15px 20px;
+	height: 0;
+	padding:0px;
+}
+
+#optionsframework .section .heading {
+	/* padding:10px 0px; */
+	margin:10 0;
+	width:20%;
+	float:left;
+}
+#optionsframework .section .option {
+	padding:10px 0;
+	width:80%;
+	float:left;
+}
+
+#optionsframework .section .controls {
+	float: left;
+	min-width:350px;
+	width: 54%;
+	padding-right:2%;
+}
+#optionsframework .section .explain {
+	max-width:38%;
+	padding:3px 0px;
+	float: left;
+	font-size: 12px;
+	line-height:16px;
+	color: #777;
+	font-style:italic;
+}
+#optionsframework .section-checkbox .controls {
+	width: 98%;
+}
+#optionsframework .section-checkbox .explain {
+	max-width:94%;
+}
+#optionsframework .of-input {
+	width:100%;
+}
+#optionsframework .controls select, #optionsframework .controls textarea {
+	margin-bottom:10px;
+	width:100%;
+}
+#optionsframework .section-radio label, #optionsframework .section-multicheck label {
+	float:left;
+	max-width:90%;
+	line-height: 16px;
+	margin-bottom: 5px;
+}
+#optionsframework input.checkbox, #optionsframework input.of-radio {
+	width: 30px;
+	margin-top:2px;
+	float:left;
+	clear:both;
+}
+#optionsframework .section-typography .controls {
+	float:none;
+	width:auto;
+}
+#optionsframework .section-typography .explain {
+	float:none;
+	width:auto;
+	
+}
+#optionsframework .controls .of-typography-size {
+	width:80px;
+	float:left;
+	margin-right:5px;
+}
+#optionsframework .controls .of-typography-unit {
+	width:50px;
+	margin-right:5px;
+	float:left;
+}
+#optionsframework .controls .of-typography-face {
+	width:100px;
+	margin-right:5px;
+	float:left;
+}
+#optionsframework .controls .of-typography-style {
+	width:80px;
+	/* margin-left:5px; */
+	margin-right:5px;
+	float:left;
+}
+#optionsframework .of-background-properties {
+	clear:both;
+	margin-top: 18px;	
+}
+#optionsframework .controls .of-background-repeat {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsframework .controls .of-background-position {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsframework .controls .of-background-attachment {
+	width:125px;
+	margin-right:5px;
+	float:left
+}
+#optionsframework .section-background .wp-picker-container {
+	margin-bottom:10px;
+}
+#optionsframework .controls .of-radio-img-img {
+	border:3px solid #f9f9f9;
+	margin:0 5px 10px 0;
+	display:none;
+	cursor:pointer;
+	float:left;
+}
+#optionsframework .controls .of-radio-img-selected {
+	border:3px solid #ccc
+}
+#optionsframework .controls .of-radio-img-img:hover {
+	opacity:.8;
+}
+#optionsframework .controls .of-border-width {
+	width:80px;
+	float:left
+}
+#optionsframework .controls .of-border-style {
+	width:120px;
+	float:left
+}
+#optionsframework .hide {
+	display:none;
+}
+#optionsframework .of-option-image {
+	max-width:340px;
+	margin:3px 0 18px 0;
+}
+#optionsframework .mini .controls select, #optionsframework .section .mini .controls {
+	width: 140px;
+}
+#optionsframework .mini .controls input, #optionsframework .mini .controls {
+	min-width:140px;
+	width: 140px;
+}
+#optionsframework .mini .explain {
+	max-width:74%;
+}
+
+/* Editor */
+
+#optionsframework .section-editor .explain {
+	max-width: 98%;
+	float:none;
+	margin-bottom:5px;
+}
+
+/* Image Uploader */
+
+#optionsframework .controls input.upload {
+	width:80%;
+}
+#optionsframework .controls input.upload_button {
+	float:right;
+	border-color:#BBBBBB;
+	cursor:pointer;
+}
+#optionsframework .controls input.upload_button:hover {
+	border-color:#666666;
+	color:#000;
+}
+#optionsframework .screenshot {
+	float:left;
+	margin-left:1px;
+	position:relative;
+	width:344px;
+	margin-top:3px;
+}
+#optionsframework .screenshot img {
+	background:#FAFAFA;
+	border-color:#ccc #eee #eee #ccc;
+	border-style:solid;
+	border-width:1px;
+	float:left;
+	max-width:334px;
+	padding:4px;
+	margin-bottom:10px;
+}
+#optionsframework .screenshot .remove-image {
+	background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJdSURBVDjLpZP7S1NhGMf9W7YfogSJboSEUVCY8zJ31trcps6zTI9bLGJpjp1hmkGNxVz4Q6ildtXKXzJNbJRaRmrXoeWx8tJOTWptnrNryre5YCYuI3rh+8vL+/m8PA/PkwIg5X+y5mJWrxfOUBXm91QZM6UluUmthntHqplxUml2lciF6wrmdHriI0Wx3xw2hAediLwZRWRkCPzdDswaSvGqkGCfq8VEUsEyPF1O8Qu3O7A09RbRvjuIttsRbT6HHzebsDjcB4/JgFFlNv9MnkmsEszodIIY7Oaut2OJcSF68Qx8dgv8tmqEL1gQaaARtp5A+N4NzB0lMXxon/uxbI8gIYjB9HytGYuusfiPIQcN71kjgnW6VeFOkgh3XcHLvAwMSDPohOADdYQJdF1FtLMZPmslvhZJk2ahkgRvq4HHUoWHRDqTEDDl2mDkfheiDgt8pw340/EocuClCuFvboQzb0cwIZgki4KhzlaE6w0InipbVzBfqoK/qRH94i0rgokSFeO11iBkp8EdV8cfJo0yD75aE2ZNRvSJ0lZKcBXLaUYmQrCzDT6tDN5SyRqYlWeDLZAg0H4JQ+Jt6M3atNLE10VSwQsN4Z6r0CBwqzXesHmV+BeoyAUri8EyMfi2FowXS5dhd7doo2DVII0V5BAjigP89GEVAtda8b2ehodU4rNaAW+dGfzlFkyo89GTlcrHYCLpKD+V7yeeHNzLjkp24Uu1Ed6G8/F8qjqGRzlbl2H2dzjpMg1KdwsHxOlmJ7GTeZC/nesXbeZ6c9OYnuxUc3fmBuFft/Ff8xMd0s65SXIb/gAAAABJRU5ErkJggg==) no-repeat;
+	border:medium none;
+	bottom:4px;
+	display:block;
+	float:left;
+	height:16px;
+	padding:0;
+	position:absolute;
+	left:-4px;
+	text-indent:-9999px;
+	width:16px;
+}
+#optionsframework .screenshot .no_image .file_link {
+	margin-left: 20px;
+}
+#optionsframework .screenshot .no_image .remove-button {
+	bottom: 0px;
+}
+#optionsframework .reset-button {
+	float:left;
+	cursor:pointer;
+}
+
+/* Bottom Section */
+
+#optionsframework-submit {
+	padding: 7px 10px;
+	border-top: 1px solid #ECECEC;
+	background-color: #F1F1F1;
+    background-image: -moz-linear-gradient(center top , #F9F9F9, #ECECEC);
+}
+#optionsframework .button-primary {
+	float:right;
+}
+#optionsframework .section:after {
+	content: "";
+	display: table;
+}
+#optionsframework .section:after {
+	clear: both;
+}
+
+/* checkbox switch */
+.switch_wrap{
+	float:left;
+}
+.switch_wrap input[type="checkbox"] {
+  position:absolute;
+  left:-9999px;
+  opacity: 0;
+}
+
+.switch_wrap input[type="checkbox"]:checked + .switch {
+  background-color: #6cbc43;
+}
+
+.switch_wrap input[type="checkbox"]:checked + .switch::before {
+  display: block;
+}
+
+.switch_wrap input[type="checkbox"]:checked + .switch::after {
+  display: none;
+}
+
+.switch_wrap input[type="checkbox"]:checked + .switch .bullet {
+  left: 33px;
+}
+
+.switch_wrap .switch {
+  position: relative;
+  display: inline-block;
+  width: 65px;
+  height: 20px;
+  line-height: 20px;
+  margin-right: 1em;
+  margin-top: -3px;
+  vertical-align: middle;
+  background-color: #c1272d;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.25) inset, 0 1px 0 rgb(255,255,255);
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.25) inset, 0 1px 0 rgb(255,255,255);
+}
+
+.switch_wrap .switch::before,
+.switch_wrap .switch::after {
+  content: 'ON';
+  display: none;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+
+.switch_wrap .switch::after {
+  content: 'OFF';
+  display: block;
+  right: 0;
+}
+
+.switch_wrap .switch .bullet {
+  position: relative;
+  display: block;
+  width: 32px;
+  height: 22px;
+  top: -2px;
+  left: -2px;
+  background-color: #f0f0f0;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f0f0f0), to(#e6e6e6));
+  background-image: -webkit-linear-gradient(top, #f0f0f0, #e6e6e6);
+  background-image: -moz-linear-gradient(top, #f0f0f0, #e6e6e6);
+  background-image: -ms-linear-gradient(top, #f0f0f0, #e6e6e6);
+  background-image: -o-linear-gradient(top, #f0f0f0, #e6e6e6);
+  background-image: linear-gradient(top, #f0f0f0, #e6e6e6);
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+  -webkit-box-shadow: 0 1px 0 white inset, 0 1px 1px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 1px 0 white inset, 0 1px 1px rgba(0, 0, 0, 0.25);
+  -webkit-transition: left 0.1s linear;
+  -moz-transition: left 0.1s linear;
+  -ms-transition: left 0.1s linear;
+  -o-transition: left 0.1s linear;
+  transition: left 0.1s linear;
+}
+
+.switch_wrap .switch .bullet::before,
+.switch_wrap .switch .bullet::after {
+  content: '';
+  display: block;
+  height: 13px;
+  width: 3px;
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  margin-left: -6px;
+  border: 1px solid #cccccc;
+  border-width: 0 1px;
+  -webkit-box-shadow: 1px 0 0 white, 1px 0 0 white inset;
+  box-shadow: 1px 0 0 white, 1px 0 0 white inset;
+}
+
+.switch_wrap .switch .bullet::after {
+  margin-left: 2px;
+}
+
+
+/* 
+ * FontAwesome fonts style
+ */
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../../fonts/fontawesome-webfont.eot?v=4.0.3');
+  src: url('../../fonts/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), 
+  url('../../fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'), 
+  url('../../fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), 
+  url('../../fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ 
+.fa {
+	display: inline-block;
+    font-family: FontAwesome;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    margin-right: 10px;
+}
+.fa-twitter:before {
+  content: "\f099";
+}
+.fa-facebook:before {
+  content: "\f09a";
+}
+.fa-github:before {
+  content: "\f09b";
+}
+.fa-flickr:before {
+  content: "\f16e";
+}
+.fa-google:before {
+  content: "\f0d4";
+}
+.fa-skype:before {
+  content: "\f17e";
+}
+.fa-vimeo:before {
+  content: "\f194";
+}
+.fa-youtube:before {
+  content: "\f166";
+}
+.fa-dribbble:before {
+  content: "\f17d";
+}
+.fa-linkedin:before {
+  content: "\f0e1";
+}
+.fa-pinterest:before {
+  content: "\f0d3";
+}

@@ -1,0 +1,822 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CountDown v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-01 16:12:53+0000\n"
+"Last-Translator: admin <gunjan.kanungo321@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ countdown
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:21
+#@ countdown
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: archive.php:29
+#, php-format
+#@ countdown
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+#@ countdown
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:31
+#@ countdown
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+#@ countdown
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:33
+#@ countdown
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:35
+#@ countdown
+msgid "Archives"
+msgstr ""
+
+#: author.php:32
+#, php-format
+#@ countdown
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:53
+#: content.php:39
+#, php-format
+#@ countdown
+msgid "About %s"
+msgstr ""
+
+#: category.php:21
+#, php-format
+#@ countdown
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+#@ countdown
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:42
+#@ countdown
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43
+#@ countdown
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44
+#@ countdown
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:53
+#@ countdown
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:18
+#: content.php:57
+#@ countdown
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:21
+#: content.php:32
+#@ countdown
+msgid "Edit"
+msgstr ""
+
+#: content.php:14
+#@ countdown
+msgid "Featured post"
+msgstr ""
+
+#: content.php:43
+#, php-format
+#@ countdown
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:56
+#@ countdown
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: count-down-template.php:18
+#@ countdown
+msgid "Days"
+msgstr ""
+
+#: count-down-template.php:24
+#@ countdown
+msgid "Hours"
+msgstr ""
+
+#: count-down-template.php:31
+#@ countdown
+msgid "Minutes"
+msgstr ""
+
+#: count-down-template.php:38
+#@ countdown
+msgid "Seconds"
+msgstr ""
+
+#: count-down-template.php:45
+#@ countdown
+msgid "Stay tuned!"
+msgstr ""
+
+#: count-down-template.php:50
+#@ countdown
+msgid "Please enter your email..."
+msgstr ""
+
+#: count-down-template.php:53
+#@ countdown
+msgid "Notify"
+msgstr ""
+
+#: footer.php:15
+#@ countdown
+msgid "Theme by CupidThemes"
+msgstr ""
+
+#: functions.php:40
+#@ countdown
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:144
+#@ countdown
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:146
+#@ countdown
+msgid "Appears on posts and pages except the optional Front Page template, which has its own widgets"
+msgstr ""
+
+#: functions.php:169
+#: single.php:20
+#@ countdown
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:170
+#@ countdown
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:171
+#@ countdown
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:187
+#: functions.php:190
+#@ countdown
+msgid ", "
+msgstr ""
+
+#: functions.php:201
+#, php-format
+#@ countdown
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:207
+#, php-format
+#@ countdown
+msgid "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: functions.php:209
+#, php-format
+#@ countdown
+msgid "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: functions.php:211
+#, php-format
+#@ countdown
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: header.php:60
+#@ countdown
+msgid "Menu"
+msgstr ""
+
+#: header.php:61
+#@ countdown
+msgid "Skip to content"
+msgstr ""
+
+#: inc/options-framework.php:182
+#: inc/options-framework.php:183
+#: inc/options-framework.php:414
+#@ countdown
+msgid "Theme Options"
+msgstr ""
+
+#: inc/options-framework.php:229
+#@ options_framework_theme
+msgid "Clear"
+msgstr ""
+
+#: inc/options-framework.php:230
+#@ options_framework_theme
+msgid "Default"
+msgstr ""
+
+#: inc/options-framework.php:231
+#@ options_framework_theme
+msgid "Select Color"
+msgstr ""
+
+#: inc/options-framework.php:277
+#@ default
+msgid "Save Changes"
+msgstr ""
+
+#: inc/options-framework.php:278
+#@ countdown
+msgid "Restore Defaults"
+msgstr ""
+
+#: inc/options-framework.php:278
+#@ countdown
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/options-framework.php:310
+#@ countdown
+msgid "Default options restored."
+msgstr ""
+
+#: inc/options-framework.php:364
+#@ countdown
+msgid "Options saved."
+msgstr ""
+
+#: inc/options-media-uploader.php:51
+#@ options_framework_theme
+msgid "No file chosen"
+msgstr ""
+
+#: inc/options-media-uploader.php:54
+#: inc/options-media-uploader.php:113
+#@ options_framework_theme
+msgid "Upload"
+msgstr ""
+
+#: inc/options-media-uploader.php:56
+#: inc/options-media-uploader.php:114
+#@ options_framework_theme
+msgid "Remove"
+msgstr ""
+
+#: inc/options-media-uploader.php:59
+#@ options_framework_theme
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/options-media-uploader.php:83
+#@ options_framework_theme
+msgid "View File"
+msgstr ""
+
+#: inc/options-sanitize.php:232
+#@ options_framework_theme
+msgid "No Repeat"
+msgstr ""
+
+#: inc/options-sanitize.php:233
+#@ options_framework_theme
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/options-sanitize.php:234
+#@ options_framework_theme
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/options-sanitize.php:235
+#@ options_framework_theme
+msgid "Repeat All"
+msgstr ""
+
+#: inc/options-sanitize.php:248
+#@ options_framework_theme
+msgid "Top Left"
+msgstr ""
+
+#: inc/options-sanitize.php:249
+#@ options_framework_theme
+msgid "Top Center"
+msgstr ""
+
+#: inc/options-sanitize.php:250
+#@ options_framework_theme
+msgid "Top Right"
+msgstr ""
+
+#: inc/options-sanitize.php:251
+#@ options_framework_theme
+msgid "Middle Left"
+msgstr ""
+
+#: inc/options-sanitize.php:252
+#@ options_framework_theme
+msgid "Middle Center"
+msgstr ""
+
+#: inc/options-sanitize.php:253
+#@ options_framework_theme
+msgid "Middle Right"
+msgstr ""
+
+#: inc/options-sanitize.php:254
+#@ options_framework_theme
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/options-sanitize.php:255
+#@ options_framework_theme
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/options-sanitize.php:256
+#@ options_framework_theme
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/options-sanitize.php:269
+#@ options_framework_theme
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/options-sanitize.php:270
+#@ options_framework_theme
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/options-sanitize.php:344
+#@ options_framework_theme
+msgid "Normal"
+msgstr ""
+
+#: inc/options-sanitize.php:345
+#@ options_framework_theme
+msgid "Italic"
+msgstr ""
+
+#: inc/options-sanitize.php:346
+#@ options_framework_theme
+msgid "Bold"
+msgstr ""
+
+#: inc/options-sanitize.php:347
+#@ options_framework_theme
+msgid "Bold Italic"
+msgstr ""
+
+#: index.php:38
+#@ countdown
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:42
+#, php-format
+#@ countdown
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: index.php:49
+#@ countdown
+msgid "Nothing Found"
+msgstr ""
+
+#: index.php:53
+#@ countdown
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: options.php:24
+#@ countdown
+msgid "Linear Bottom"
+msgstr ""
+
+#: options.php:25
+#@ countdown
+msgid "Linear Bottom Right"
+msgstr ""
+
+#: options.php:26
+#@ countdown
+msgid "Linear Bottom Left"
+msgstr ""
+
+#: options.php:27
+#@ countdown
+msgid "Lnear Right"
+msgstr ""
+
+#: options.php:28
+#@ countdown
+msgid "Linear Left"
+msgstr ""
+
+#: options.php:29
+#@ countdown
+msgid "Linear Top Right"
+msgstr ""
+
+#: options.php:30
+#@ countdown
+msgid "Linear Top"
+msgstr ""
+
+#: options.php:31
+#@ countdown
+msgid "Linear Top Left"
+msgstr ""
+
+#: options.php:32
+#@ countdown
+msgid "Circular Top Left"
+msgstr ""
+
+#: options.php:33
+#@ countdown
+msgid "Circular Top Center"
+msgstr ""
+
+#: options.php:34
+#@ countdown
+msgid "Circular Top Right"
+msgstr ""
+
+#: options.php:35
+#@ countdown
+msgid "Circular Middle Left"
+msgstr ""
+
+#: options.php:36
+#@ countdown
+msgid "Circular Middle Center"
+msgstr ""
+
+#: options.php:37
+#@ countdown
+msgid "Circular Middle Right"
+msgstr ""
+
+#: options.php:38
+#@ countdown
+msgid "Circular Bottom Left"
+msgstr ""
+
+#: options.php:39
+#@ countdown
+msgid "Circular Bottom Center"
+msgstr ""
+
+#: options.php:40
+#@ countdown
+msgid "Circular Bottom Right"
+msgstr ""
+
+#: options.php:41
+#@ countdown
+msgid "Elliptical Top Left"
+msgstr ""
+
+#: options.php:42
+#@ countdown
+msgid "Elliptical Top Center"
+msgstr ""
+
+#: options.php:43
+#@ countdown
+msgid "Elliptical Top Right"
+msgstr ""
+
+#: options.php:44
+#@ countdown
+msgid "Elliptical Middle Left"
+msgstr ""
+
+#: options.php:45
+#@ countdown
+msgid "Elliptical Middle Center"
+msgstr ""
+
+#: options.php:46
+#@ countdown
+msgid "Elliptical Middle Right"
+msgstr ""
+
+#: options.php:47
+#@ countdown
+msgid "Elliptical Bottom Left"
+msgstr ""
+
+#: options.php:48
+#@ countdown
+msgid "Elliptical Bottom Center"
+msgstr ""
+
+#: options.php:49
+#@ countdown
+msgid "Elliptical Bottom Right"
+msgstr ""
+
+#: options.php:101
+#: options.php:327
+#@ countdown
+msgid "Site logo"
+msgstr ""
+
+#: options.php:112
+#@ countdown
+msgid "Show logo"
+msgstr ""
+
+#: options.php:120
+#: options.php:315
+#@ countdown
+msgid "Animation effects"
+msgstr ""
+
+#: options.php:130
+#@ countdown
+msgid "Easing"
+msgstr ""
+
+#: options.php:146
+#@ countdown
+msgid "Logo"
+msgstr ""
+
+#: options.php:162
+#: options.php:288
+#@ countdown
+msgid "Background start"
+msgstr ""
+
+#: options.php:174
+#: options.php:295
+#@ countdown
+msgid "Background end"
+msgstr ""
+
+#: options.php:187
+#: options.php:302
+#@ countdown
+msgid "Background style"
+msgstr ""
+
+#: options.php:224
+#@ countdown
+msgid "Basic Settings"
+msgstr ""
+
+#: options.php:229
+#@ countdown
+msgid "Date"
+msgstr ""
+
+#: options.php:230
+#@ countdown
+msgid "Set the date at which the countdown expires (format: mm/dd/yyyy)"
+msgstr ""
+
+#: options.php:238
+#@ countdown
+msgid "Time"
+msgstr ""
+
+#: options.php:239
+#@ countdown
+msgid "Set the time at which the countdown expires (format: hh:mm)"
+msgstr ""
+
+#: options.php:250
+#@ countdown
+msgid "Light text"
+msgstr ""
+
+#: options.php:257
+#@ countdown
+msgid "Dark text"
+msgstr ""
+
+#: options.php:259
+#@ countdown
+msgid "COMING SOON"
+msgstr ""
+
+#: options.php:264
+#@ countdown
+msgid "Description"
+msgstr ""
+
+#: options.php:266
+#@ countdown
+msgid "Very soon, our site will be open to visitors, we hope for your patience and understanding."
+msgstr ""
+
+#: options.php:279
+#@ countdown
+msgid "Copyright text"
+msgstr ""
+
+#: options.php:303
+#@ countdown
+msgid "Select background style color"
+msgstr ""
+
+#: options.php:316
+#@ countdown
+msgid "Select animation easing for loading theme <a target=\"_blank\" href=\"http://api.jqueryui.com/resources/easing-graph.html\">more</a>"
+msgstr ""
+
+#: options.php:328
+#@ countdown
+msgid "Show / Hide site logo"
+msgstr ""
+
+#: options.php:336
+#@ countdown
+msgid "Upload logo"
+msgstr ""
+
+#: options.php:346
+#@ countdown
+msgid "Your Google Analytics Account ID (format: XX-0000000-0)"
+msgstr ""
+
+#: options.php:356
+#@ countdown
+msgid "Social icon"
+msgstr ""
+
+#: options.php:365
+#@ countdown
+msgid "Set your url"
+msgstr ""
+
+#: options.php:375
+#@ countdown
+msgid "E-Mail export"
+msgstr ""
+
+#: options.php:382
+#@ countdown
+msgid "Enable / disable save emails in Mailchimp."
+msgstr ""
+
+#: options.php:388
+#: options.php:415
+#@ countdown
+msgid "API key"
+msgstr ""
+
+#: options.php:389
+#@ countdown
+msgid "Your API key <a target=\"_blank\" href=\"http://admin.mailchimp.com/account/api\">from here</a>"
+msgstr ""
+
+#: options.php:396
+#: options.php:450
+#@ countdown
+msgid "List name"
+msgstr ""
+
+#: options.php:397
+#@ countdown
+msgid "List unique id <a target=\"_blank\" href=\"http://admin.mailchimp.com/lists/\">from here</a>"
+msgstr ""
+
+#: options.php:409
+#@ countdown
+msgid "Enable / disable save emails in GetResponse."
+msgstr ""
+
+#: options.php:416
+#@ countdown
+msgid "Your API key <a target=\"_blank\" href=\"https://app.getresponse.com/my_api_key.html\">from here</a>"
+msgstr ""
+
+#: options.php:423
+#@ countdown
+msgid "Campaign"
+msgstr ""
+
+#: options.php:424
+#@ countdown
+msgid "Campaign name <a target=\"_blank\" href=\"https://app.getresponse.com/campaign_list.html\">from here</a>"
+msgstr ""
+
+#: options.php:436
+#@ countdown
+msgid "Enable / disable save emails in AWeber."
+msgstr ""
+
+#: options.php:442
+#@ countdown
+msgid "Authcode"
+msgstr ""
+
+#: options.php:443
+#@ countdown
+msgid "Your Authcode <a target=\"_blank\" href=\"https://auth.aweber.com/1.0/oauth/authorize_app/4ac86d98\">from here</a>"
+msgstr ""
+
+#: options.php:451
+#@ countdown
+msgid "List name <a target=\"_blank\" href=\"https://www.aweber.com/users/autoresponder/manage\">from here</a>"
+msgstr ""
+
+#: options.php:462
+#@ countdown
+msgid "CSV File"
+msgstr ""
+
+#: options.php:463
+#@ countdown
+msgid "Enable / disable save emails in CSV file."
+msgstr ""
+
+#: options.php:471
+#@ countdown
+msgid "Download CSV file"
+msgstr ""
+
+#: options.php:478
+#@ countdown
+msgid "Error saving"
+msgstr ""
+
+#: options.php:479
+#@ countdown
+msgid "Enable / disable send error saving to mail admin."
+msgstr ""
+
+#: options.php:488
+#@ countdown
+msgid "If you want the to subscribe form visible, you need to enable one of the options."
+msgstr ""
+
+#: single.php:21
+#@ countdown
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: single.php:22
+#@ countdown
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+

@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eleganttvo v1.0\n"
+"POT-Creation-Date: 2013-06-27 15:00+0600\n"
+"PO-Revision-Date: 2013-06-27 15:00+0600\n"
+"Last-Translator: G4 <geivvl@gmail.com>\n"
+"Language-Team: G4 <geivvl@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions.php:195
+msgid "Error"
+msgstr ""
+
+#: ../index.php:71
+msgid "Days"
+msgstr "天"
+
+#: ../index.php:77
+msgid "Hours"
+msgstr "营业时间"
+
+#: ../index.php:84
+msgid "Minutes"
+msgstr "会议纪要"
+
+#: ../index.php:91
+msgid "Seconds"
+msgstr "秒"
+
+#: ../index.php:124
+msgid "Stay tuned!"
+msgstr "保持聯繫"
+
+#: ../index.php:129
+msgid "Please enter your email..."
+msgstr "請輸入您的E-mail地址"
+
+#: ../index.php:132
+msgid "Notify"
+msgstr "訂閱"
+
+#: ../index.php:165
+msgid "This field is required"
+msgstr "必选字段"
+
+#: ../index.php:166
+msgid "Please enter a valid email address"
+msgstr "请输入正确格式的电子邮件"
+
+#: ../index.php:167
+msgid "This email is already signed"
+msgstr "這個電子郵件地址已經被簽名"
+
+#: ../index.php:168
+msgid "Your email is saved"
+msgstr "保存您的電子郵件"
+
+#: ../options.php:34 ../options.php:239
+msgid "Site logo"
+msgstr ""
+
+#: ../options.php:45
+msgid "Show logo"
+msgstr ""
+
+#: ../options.php:58
+msgid "Logo"
+msgstr ""
+
+#: ../options.php:74 ../options.php:213
+msgid "Background color"
+msgstr ""
+
+#: ../options.php:86
+msgid "Background image"
+msgstr ""
+
+#: ../options.php:99 ../options.php:220
+msgid "Shadow color"
+msgstr ""
+
+#: ../options.php:104 ../options.php:227
+msgid "Gray"
+msgstr ""
+
+#: ../options.php:105 ../options.php:228
+msgid "Blue"
+msgstr ""
+
+#: ../options.php:106 ../options.php:229
+msgid "Red"
+msgstr ""
+
+#: ../options.php:107 ../options.php:230
+msgid "Green"
+msgstr ""
+
+#: ../options.php:108 ../options.php:231
+msgid "Aqua"
+msgstr ""
+
+#: ../options.php:109 ../options.php:232
+msgid "Orange"
+msgstr ""
+
+#: ../options.php:149
+msgid "Basic Settings"
+msgstr ""
+
+#: ../options.php:154
+msgid "Date"
+msgstr ""
+
+#: ../options.php:155
+msgid "Set the date at which the countdown expires (format: mm/dd/yyyy)"
+msgstr ""
+
+#: ../options.php:163
+msgid "Time"
+msgstr ""
+
+#: ../options.php:164
+msgid "Set the time at which the countdown expires (format: hh:mm)"
+msgstr ""
+
+#: ../options.php:175
+msgid "Light text"
+msgstr ""
+
+#: ../options.php:182
+msgid "Dark text"
+msgstr ""
+
+#: ../options.php:184
+msgid "COMING SOON"
+msgstr "即將推出"
+
+#: ../options.php:189
+msgid "Description"
+msgstr ""
+
+#: ../options.php:191
+msgid ""
+"Very soon, our site will be open to visitors, we hope for your patience and "
+"understanding."
+msgstr "很快，我們的網站將是對遊客開放的，我們希望為您的耐心和理解。"
+
+#: ../options.php:204
+msgid "Copyright text"
+msgstr ""
+
+#: ../options.php:221
+msgid "Select background shadow color."
+msgstr ""
+
+#: ../options.php:240
+msgid "Show / Hide site logo"
+msgstr ""
+
+#: ../options.php:248
+msgid "Upload logo"
+msgstr ""
+
+#: ../options.php:258
+msgid "Your Google Analytics Account ID (format: XX-0000000-0)"
+msgstr ""
+
+#: ../options.php:268
+msgid "Social icon"
+msgstr ""
+
+#: ../options.php:277
+msgid "Set your url"
+msgstr ""
+
+#: ../options.php:287
+msgid "E-Mail export"
+msgstr ""
+
+#: ../options.php:294
+msgid "Enable / disable save emails in Mailchimp."
+msgstr ""
+
+#: ../options.php:300 ../options.php:327
+msgid "API key"
+msgstr ""
+
+#: ../options.php:301
+msgid ""
+"Your API key <a target=\"_blank\" href=\"http://admin.mailchimp.com/account/"
+"api\">from here</a>"
+msgstr ""
+
+#: ../options.php:308 ../options.php:362
+msgid "List name"
+msgstr ""
+
+#: ../options.php:309
+msgid ""
+"List unique id <a target=\"_blank\" href=\"http://admin.mailchimp.com/lists/"
+"\">from here</a>"
+msgstr ""
+
+#: ../options.php:321
+msgid "Enable / disable save emails in GetResponse."
+msgstr ""
+
+#: ../options.php:328
+msgid ""
+"Your API key <a target=\"_blank\" href=\"https://app.getresponse.com/"
+"my_api_key.html\">from here</a>"
+msgstr ""
+
+#: ../options.php:335
+msgid "Campaign"
+msgstr ""
+
+#: ../options.php:336
+msgid ""
+"Campaign name <a target=\"_blank\" href=\"https://app.getresponse.com/"
+"campaign_list.html\">from here</a>"
+msgstr ""
+
+#: ../options.php:348
+msgid "Enable / disable save emails in AWeber."
+msgstr ""
+
+#: ../options.php:354
+msgid "Authcode"
+msgstr ""
+
+#: ../options.php:355
+msgid ""
+"Your Authcode <a target=\"_blank\" href=\"https://auth.aweber.com/1.0/oauth/"
+"authorize_app/4ac86d98\">from here</a>"
+msgstr ""
+
+#: ../options.php:363
+msgid ""
+"List name <a target=\"_blank\" href=\"https://www.aweber.com/users/"
+"autoresponder/manage\">from here</a>"
+msgstr ""
+
+#: ../options.php:374
+msgid "CSV File"
+msgstr ""
+
+#: ../options.php:375
+msgid "Enable / disable save emails in CSV file."
+msgstr ""
+
+#: ../options.php:383
+msgid "Download CSV file"
+msgstr ""
+
+#: ../options.php:390
+msgid "Error saving"
+msgstr ""
+
+#: ../options.php:391
+msgid "Enable / disable send error saving to mail admin."
+msgstr ""
+
+#: ../options.php:400
+msgid ""
+"If you want the to subscribe form visible, you need to enable one of the "
+"options."
+msgstr ""
+
+#: ../inc/options-framework.php:182 ../inc/options-framework.php:183
+#: ../inc/options-framework.php:414
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/options-framework.php:229
+msgid "Clear"
+msgstr ""
+
+#: ../inc/options-framework.php:230
+msgid "Default"
+msgstr ""
+
+#: ../inc/options-framework.php:231
+msgid "Select Color"
+msgstr ""
+
+#: ../inc/options-framework.php:278
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../inc/options-framework.php:310
+msgid "Default options restored."
+msgstr ""
+
+#: ../inc/options-framework.php:364
+msgid "Options saved."
+msgstr ""
