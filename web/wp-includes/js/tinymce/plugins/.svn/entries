@@ -1,0 +1,85 @@
+10
+
+dir
+4
+https://subversion.assembla.com:443/svn/uolhost/web/wp-includes/js/tinymce/plugins
+https://subversion.assembla.com:443/svn/uolhost
+
+
+
+2014-06-11T17:15:35.070332Z
+4
+silvio.nando
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+b1489701-3998-4883-ba33-89d1f3a1a727
+
+media
+dir
+
+wpview
+dir
+
+image
+dir
+
+directionality
+dir
+
+textcolor
+dir
+
+inlinepopups
+dir
+
+wordpress
+dir
+
+wpdialogs
+dir
+
+compat3x
+dir
+
+wpeditimage
+dir
+
+fullscreen
+dir
+
+spellchecker
+dir
+
+wplink
+dir
+
+wpgallery
+dir
+
+tabfocus
+dir
+
+hr
+dir
+
+wpfullscreen
+dir
+
+charmap
+dir
+
+paste
+dir
+

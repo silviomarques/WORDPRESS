@@ -1,0 +1,80 @@
+10
+
+dir
+1
+https://subversion.assembla.com:443/svn/uolhost
+https://subversion.assembla.com:443/svn/uolhost
+
+
+
+2014-05-14T07:45:12.714372Z
+1
+www-data
+has-props
+has-prop-mods
+
+
+
+
+
+
+
+
+
+
+
+
+b1489701-3998-4883-ba33-89d1f3a1a727
+
+trunk
+dir
+
+logs
+dir
+
+branches
+dir
+
+readme.textile
+file
+
+
+
+
+2014-06-11T16:43:02.003522Z
+b9e5c704ae810d7df16b6f2778a6d1cb
+2014-05-14T07:45:12.714372Z
+1
+www-data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+340
+
+dados
+dir
+
+web
+dir
+
+tags
+dir
+

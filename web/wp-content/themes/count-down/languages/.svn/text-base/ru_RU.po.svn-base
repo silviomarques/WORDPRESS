@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eleganttvo v1.0\n"
+"POT-Creation-Date: 2013-06-27 14:59+0600\n"
+"PO-Revision-Date: 2013-06-27 14:59+0600\n"
+"Last-Translator: G4 <geivvl@gmail.com>\n"
+"Language-Team: G4 <geivvl@gmail.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../functions.php:195
+msgid "Error"
+msgstr "Ошибка"
+
+#: ../index.php:71
+msgid "Days"
+msgstr "Дней"
+
+#: ../index.php:77
+msgid "Hours"
+msgstr "Часов"
+
+#: ../index.php:84
+msgid "Minutes"
+msgstr "Минут"
+
+#: ../index.php:91
+msgid "Seconds"
+msgstr "Секунд"
+
+#: ../index.php:124
+msgid "Stay tuned!"
+msgstr "Оставайтесь на связи"
+
+#: ../index.php:129
+msgid "Please enter your email..."
+msgstr "Пожалуйста введите свой E-mail..."
+
+#: ../index.php:132
+msgid "Notify"
+msgstr "Уведомить"
+
+#: ../index.php:165
+msgid "This field is required"
+msgstr "Это поле необходимо заполнить"
+
+#: ../index.php:166
+msgid "Please enter a valid email address"
+msgstr "Пожалуйста введите свой E-mail..."
+
+#: ../index.php:167
+msgid "This email is already signed"
+msgstr "Этот e-mail уже подписан"
+
+#: ../index.php:168
+msgid "Your email is saved"
+msgstr "Ваш e-mail сохранен"
+
+#: ../options.php:34 ../options.php:239
+msgid "Site logo"
+msgstr "Логотип сайта"
+
+#: ../options.php:45
+msgid "Show logo"
+msgstr "Показывать логотип"
+
+#: ../options.php:58
+msgid "Logo"
+msgstr "Логотип"
+
+#: ../options.php:74 ../options.php:213
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: ../options.php:86
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+#: ../options.php:99 ../options.php:220
+msgid "Shadow color"
+msgstr "Цвет тени"
+
+#: ../options.php:104 ../options.php:227
+msgid "Gray"
+msgstr "Серый"
+
+#: ../options.php:105 ../options.php:228
+msgid "Blue"
+msgstr "Синий"
+
+#: ../options.php:106 ../options.php:229
+msgid "Red"
+msgstr "Красный"
+
+#: ../options.php:107 ../options.php:230
+msgid "Green"
+msgstr "Зеленый"
+
+#: ../options.php:108 ../options.php:231
+msgid "Aqua"
+msgstr "Аква"
+
+#: ../options.php:109 ../options.php:232
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: ../options.php:149
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+#: ../options.php:154
+msgid "Date"
+msgstr "Дата"
+
+#: ../options.php:155
+msgid "Set the date at which the countdown expires (format: mm/dd/yyyy)"
+msgstr "Установите дату, когда истекает отсчет (формат: мм/дд/гггг)"
+
+#: ../options.php:163
+msgid "Time"
+msgstr "Время"
+
+#: ../options.php:164
+msgid "Set the time at which the countdown expires (format: hh:mm)"
+msgstr "Установите время, когда истекает отсчет (формат: чч:мм)"
+
+#: ../options.php:175
+msgid "Light text"
+msgstr "Светлый текст"
+
+#: ../options.php:182
+msgid "Dark text"
+msgstr "Темный текст"
+
+#: ../options.php:184
+msgid "COMING SOON"
+msgstr "ПОЧТИ ГОТОВ"
+
+#: ../options.php:189
+msgid "Description"
+msgstr "Описание"
+
+#: ../options.php:191
+msgid ""
+"Very soon, our site will be open to visitors, we hope for your patience and "
+"understanding."
+msgstr ""
+"Совсем скоро наш сайт будет открыт для пользователей, надеемся на ваше "
+"понимание."
+
+#: ../options.php:204
+msgid "Copyright text"
+msgstr "Копирайт"
+
+#: ../options.php:221
+msgid "Select background shadow color."
+msgstr "Выбор цвета тени"
+
+#: ../options.php:240
+msgid "Show / Hide site logo"
+msgstr "Скрыть / Показать логотип сайта"
+
+#: ../options.php:248
+msgid "Upload logo"
+msgstr "Загрузить логотип"
+
+#: ../options.php:258
+msgid "Your Google Analytics Account ID (format: XX-0000000-0)"
+msgstr "Ваш аккаунт ID в Google Analytics (формат: XX-0000000-0)"
+
+#: ../options.php:268
+msgid "Social icon"
+msgstr "Социальные кнопки"
+
+#: ../options.php:277
+msgid "Set your url"
+msgstr "Добавьте ваш URL"
+
+#: ../options.php:287
+msgid "E-Mail export"
+msgstr "E-Mail экспорт"
+
+#: ../options.php:294
+msgid "Enable / disable save emails in Mailchimp."
+msgstr "Вкл / Выкл сохранение адресов в Mailchimp."
+
+#: ../options.php:300 ../options.php:327
+msgid "API key"
+msgstr "API ключ"
+
+#: ../options.php:301
+msgid ""
+"Your API key <a target=\"_blank\" href=\"http://admin.mailchimp.com/account/"
+"api\">from here</a>"
+msgstr ""
+"Ваш API ключ <a target=\"_blank\" href=\"http://admin.mailchimp.com/account/"
+"api\">отсюда</a>"
+
+#: ../options.php:308 ../options.php:362
+msgid "List name"
+msgstr "Название списка"
+
+#: ../options.php:309
+msgid ""
+"List unique id <a target=\"_blank\" href=\"http://admin.mailchimp.com/lists/"
+"\">from here</a>"
+msgstr ""
+"Уникальный id списка <a target=\"_blank\" href=\"http://admin.mailchimp.com/"
+"lists/\">отсюда</a>"
+
+#: ../options.php:321
+msgid "Enable / disable save emails in GetResponse."
+msgstr "Вкл / Выкл сохранение адресов в GetResponse."
+
+#: ../options.php:328
+msgid ""
+"Your API key <a target=\"_blank\" href=\"https://app.getresponse.com/"
+"my_api_key.html\">from here</a>"
+msgstr ""
+"Ваш API ключ <a target=\"_blank\" href=\"https://app.getresponse.com/"
+"my_api_key.html\">отсюда</a>"
+
+#: ../options.php:335
+msgid "Campaign"
+msgstr "Кампания"
+
+#: ../options.php:336
+msgid ""
+"Campaign name <a target=\"_blank\" href=\"https://app.getresponse.com/"
+"campaign_list.html\">from here</a>"
+msgstr ""
+"Название кампании <a target=\"_blank\" href=\"https://app.getresponse.com/"
+"campaign_list.html\">отсюда</a>"
+
+#: ../options.php:348
+msgid "Enable / disable save emails in AWeber."
+msgstr "Вкл / Выкл сохранение адресов в AWeber."
+
+#: ../options.php:354
+msgid "Authcode"
+msgstr "Авторизационный код"
+
+#: ../options.php:355
+msgid ""
+"Your Authcode <a target=\"_blank\" href=\"https://auth.aweber.com/1.0/oauth/"
+"authorize_app/4ac86d98\">from here</a>"
+msgstr ""
+"Ваш код <a target=\"_blank\" href=\"https://auth.aweber.com/1.0/oauth/"
+"authorize_app/4ac86d98\">отсюда</a>"
+
+#: ../options.php:363
+msgid ""
+"List name <a target=\"_blank\" href=\"https://www.aweber.com/users/"
+"autoresponder/manage\">from here</a>"
+msgstr ""
+"Название списка <a target=\"_blank\" href=\"https://www.aweber.com/users/"
+"autoresponder/manage\">отсюда</a>"
+
+#: ../options.php:374
+msgid "CSV File"
+msgstr "CSV Файл"
+
+#: ../options.php:375
+msgid "Enable / disable save emails in CSV file."
+msgstr "Вкл / Выкл сохранение адресов в CSV файл."
+
+#: ../options.php:383
+msgid "Download CSV file"
+msgstr "Скачать CSV файл"
+
+#: ../options.php:390
+msgid "Error saving"
+msgstr "Ошибки экспорта"
+
+#: ../options.php:391
+msgid "Enable / disable send error saving to mail admin."
+msgstr "Вкл / Выкл отправку ошибок экспорта администратору."
+
+#: ../options.php:400
+msgid ""
+"If you want the to subscribe form visible, you need to enable one of the "
+"options."
+msgstr ""
+"Если хотите чтобы форма подписки была видна, то нужно включить, хотя бы "
+"один, вариант экспорта."
+
+#: ../inc/options-framework.php:182 ../inc/options-framework.php:183
+#: ../inc/options-framework.php:414
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: ../inc/options-framework.php:229
+msgid "Clear"
+msgstr "Очистить"
+
+#: ../inc/options-framework.php:230
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../inc/options-framework.php:231
+msgid "Select Color"
+msgstr "Выбор цвета"
+
+#: ../inc/options-framework.php:277
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ../inc/options-framework.php:278
+msgid "Restore Defaults"
+msgstr "Настройки по умолчанию"
+
+#: ../inc/options-framework.php:278
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+"Нажмите ОК для сброса настроек. Произведнные ранее настройки темы будут "
+"удалены."
+
+#: ../inc/options-framework.php:310
+msgid "Default options restored."
+msgstr "Значения по умолчанию восстановлены."
+
+#: ../inc/options-framework.php:364
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#~ msgid "Date count"
+#~ msgstr "Дата "
+
+#~ msgid "Time count"
+#~ msgstr "Время"
+
+#~ msgid "No file chosen"
+#~ msgstr "Нет выбранных файлов"
+
+#~ msgid "Upload"
+#~ msgstr "Загрузка"
+
+#~ msgid "Remove"
+#~ msgstr "Удалить"
+
+#~ msgid "View File"
+#~ msgstr "Прсмотр файла"
